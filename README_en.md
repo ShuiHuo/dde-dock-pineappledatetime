@@ -6,7 +6,7 @@ English | [简体中文](README.md)
 
 ### Screenshot
 
-![Screenshot of pineappledatetime](https://github.com/BLumia/dde-dock-pineappledatetime/raw/media/screenshot.png)
+![Screenshot of pineappledatetime](https://github.com/ShuiHuo/dde-dock-pineappledatetime/raw/media/带日期的时间截图.png)
 
 ### Info
 
