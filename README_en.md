@@ -22,7 +22,7 @@ To compile and run:
 
 ``` bash
 # you should clone it first:
-git clone https://github.com/BLumia/dde-dock-pineappledatetime.git && cd dde-dock-pineappledatetime/
+git clone https://github.com/ShuiHuo/dde-dock-pineappledatetime.git && cd dde-dock-pineappledatetime/
 # create a folder for building it:
 mkdir build
 cd build/

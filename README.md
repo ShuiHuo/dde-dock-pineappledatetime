@@ -22,7 +22,7 @@
 
 ``` bash
 # 你需要先克隆仓库源码到本地:
-git clone https://github.com/BLumia/dde-dock-pineappledatetime.git && cd dde-dock-pineappledatetime/
+git clone https://github.com/ShuiHuo/dde-dock-pineappledatetime.git && cd dde-dock-pineappledatetime/
 # 创建一个用于构建源码的目录:
 mkdir build
 cd build/
