@@ -58,7 +58,7 @@ const QString DatetimePlugin::pluginName() const
 
 const QString DatetimePlugin::pluginDisplayName() const
 {
-    return QString("Pineapple ") + tr("Datetime");
+    return QString("带日期的时间");
 }
 
 void DatetimePlugin::init(PluginProxyInterface *proxyInter)

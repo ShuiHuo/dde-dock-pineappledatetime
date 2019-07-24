@@ -97,12 +97,12 @@ void DatetimeWidget::paintEvent(QPaintEvent *e)
     if (displayMode == Dock::Efficient) {
         QString format;
         if (m_24HourFormat) {
-            format = "hh:mm\nyyyy/M/d";
+            format = "hh点mm分\nyyyy年M月d日";
         } else {
             if (position == Dock::Top || position == Dock::Bottom) {
-                format = "hh:mm AP\nyyyy/M/d";
+                format = "hh点mm分 AP\nyyyy年M月d日";
             } else {
-                format = "hh:mm\nAP";
+                format = "hh点mm分\nAP";
             }
         }
 
